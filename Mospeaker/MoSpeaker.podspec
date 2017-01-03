@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MoSpeaker"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "voice recognition player"
 
  s.homepage     = "https://github.com/Lmoling/MoSpeaker"
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.author = {"Lmoling" => "lmoling@yeah.net"}
 
-  s.platform = :ios, "9.0"
+  s.platform = :ios, "7.0"
 
   s.source       = { :git => "https://github.com/Lmoling/MoSpeaker.git", :tag => s.version }
 
